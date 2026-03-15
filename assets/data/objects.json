@@ -1,0 +1,26 @@
+[
+	{
+		"id": "1",
+		"name": "BMW M3",
+		"description": "Un sedan sportiv de performanță ridicată",
+		"image": "m3"
+	},
+	{
+		"id": "2",
+		"name": "Audi RS7",
+		"description": "Un coupe sportiv cu motor V8 twin-turbo",
+		"image": "rs7"
+	},
+	{
+		"id": "3",
+		"name": "Mercedes AMG GT",
+		"description": "Un supercar cu design agresiv și performanță extremă",
+		"image": "amg"
+	},
+	{
+		"id": "4",
+		"name": "Nissan GTR",
+		"description": "Un supercar japonez cunoscut pentru accelerarea uimitoare",
+		"image": "gtr"
+	}
+]
